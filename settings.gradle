@@ -1,2 +1,5 @@
 include ':app'
 rootProject.name='Security'
+include ':libnet'
+include ':libdatabase'
+include ':libbase'
